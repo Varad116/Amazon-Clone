@@ -267,3 +267,34 @@ ul a {
 .copyright{
     padding-top: 5px;
 }
+
+/* under this i changed for website responsiveness */
+
+@media (max-width: 600px) {
+  .navbar {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px;
+  }
+
+  .nav-search {
+    width: 100%;
+    order: 5;
+  }
+
+  .panel-ops {
+    display: none;
+  }
+
+  .shop-section {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .box {
+    width: 100%;
+  }
+
+  .footer-panel2 {
+    flex-wrap: wrap;
+  }
+}
