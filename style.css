@@ -162,10 +162,6 @@ span {
     margin-bottom: 25px;
 }
 
-.hero-msg a {
-    color: #007185;
-}
-
 /** shop section **/
 
 .shop-section {
@@ -267,8 +263,6 @@ ul a {
 .copyright {
     padding-top: 5px;
 }
-
-/* under this i changed for website responsiveness */
 
 /* Mobile */
 @media (max-width: 600px) {
