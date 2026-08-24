@@ -162,8 +162,7 @@ span {
     margin-bottom: 25px;
 }
 
-.amazon-in-link {
-    text-decoration: none;
+.hero-msg a {
     color: #007185;
 }
 
