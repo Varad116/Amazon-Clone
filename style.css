@@ -264,6 +264,13 @@ ul a {
     padding-top: 5px;
 }
 
+.arc-emoji {
+        width: 1.2em;
+        height: 1.2em;
+        object-fit: contain;
+        vertical-align: -0.2em;
+    }
+
 /* Mobile */
 @media (max-width: 600px) {
 
