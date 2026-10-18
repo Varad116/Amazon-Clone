@@ -56,6 +56,7 @@
     display: flex;
     width: 650px;
     height: 35px;
+    border: 2px solid transparent;
     border-radius: 5px;
     justify-content: space-evenly;
 }
@@ -88,7 +89,7 @@
 }
 
 .nav-search:hover {
-    border: 2px solid orange;
+    border: 2px;
 }
 
 /** box 4 **/
